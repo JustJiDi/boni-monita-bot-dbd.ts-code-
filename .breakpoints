@@ -1,0 +1,62 @@
+{
+  "files": {
+    "commands/acarnal.js": [
+      {
+        "id": "86e2d4bd-b70f-4ca1-8875-5d6a4bf977da",
+        "line": 10,
+        "version": 205,
+        "index": 165
+      }
+    ],
+    "commands/ping.js": [
+      {
+        "id": "3f23ec39-ee47-4a76-94a1-21211d87f9f2",
+        "line": 10,
+        "version": 1,
+        "index": 113
+      }
+    ],
+    "commands/stats.js": [
+      {
+        "id": "76d30fed-4641-4069-9382-88f8da13249e",
+        "line": 29,
+        "version": 1016,
+        "index": 931
+      }
+    ],
+    "handlers/commands/play.js": [
+      {
+        "id": "73cd5804-74b0-43a6-a517-ea152376196f",
+        "line": 5,
+        "version": 1,
+        "index": 100
+      }
+    ],
+    "server.js": [
+      {
+        "id": "a360a949-4e2f-4f40-b90a-c7de56a73716",
+        "line": 2,
+        "version": 13,
+        "index": 36
+      },
+      {
+        "id": "4b96c82a-9d4a-45b2-a35d-bc930958ac62",
+        "line": 5,
+        "version": 13,
+        "index": 73
+      },
+      {
+        "id": "d4691c95-3d4e-4ee0-918b-c4f61497c9fb",
+        "line": 6,
+        "version": 13,
+        "index": 102
+      },
+      {
+        "id": "e0eaeb43-cfcb-4532-901b-8d14540c1862",
+        "line": 7,
+        "version": 13,
+        "index": 103
+      }
+    ]
+  }
+}
