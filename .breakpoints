@@ -31,32 +31,6 @@
         "version": 1,
         "index": 100
       }
-    ],
-    "server.js": [
-      {
-        "id": "a360a949-4e2f-4f40-b90a-c7de56a73716",
-        "line": 2,
-        "version": 13,
-        "index": 36
-      },
-      {
-        "id": "4b96c82a-9d4a-45b2-a35d-bc930958ac62",
-        "line": 5,
-        "version": 13,
-        "index": 73
-      },
-      {
-        "id": "d4691c95-3d4e-4ee0-918b-c4f61497c9fb",
-        "line": 6,
-        "version": 13,
-        "index": 102
-      },
-      {
-        "id": "e0eaeb43-cfcb-4532-901b-8d14540c1862",
-        "line": 7,
-        "version": 13,
-        "index": 103
-      }
     ]
   }
 }

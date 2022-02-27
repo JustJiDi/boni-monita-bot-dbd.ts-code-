@@ -6,8 +6,9 @@ module.exports = (client) => {
  
  $addActionRow
  $addSelectMenu[Menu;selecciona una categoria 🤖;0;0]
- $addSelectMenuOption[casa;categoria: casa 🏡;home;🏡]
+ $addSelectMenuOption[general;categoria: general 🏡;general;🏡]
  $addSelectMenuOption[mod;categoria: moderacion 👮‍♂️;modMenu;👮‍♂️]
+$addSelectMenuOption[credits;categoria: creditos 📄;creditos;📄]
  $color[1;FFAAAA]
  `
 	}

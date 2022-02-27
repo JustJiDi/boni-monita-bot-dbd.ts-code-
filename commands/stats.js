@@ -10,7 +10,7 @@ module.exports = [
 
  CPU usado: **$djsEval[true;require('os').loadavg()[0\\]]%**
  - - - - - - - - - - - - - - - - -
- RAM gastada: **$ram**
+ RAM gastada: **$truncate[$ram]**
  - - - - - - - - - - - - - - - - -
  PING: **$pingms**
  - - - - - - - - - - - - - - - - -
